@@ -3,4 +3,10 @@
     color: #fdfdfd;
     text-align: right;
     width: 100%;
+    padding: 1.5625rem 0rem;
+    text-transform: lowercase;
+}
+
+.texto {
+    padding: 0 2rem;
 }
